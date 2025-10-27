@@ -1,0 +1,6 @@
+Forward Kinematics 2 DoF
+L1 = 8.0 cm, L2 = 50.0 cm
+Theta1 = 40.0 deg, Theta2 = 30.0 deg
+FK (formula) => x = 23.229363 cm, y = 52.126932 cm
+FK (HT matrix) => position = (np.float64(23.22936271123527), np.float64(52.126931916787726), np.float64(0.0))
+IK solutions (rad) => [(0.6981317007977305, 0.5235987755983003), (1.6050319473631163, -0.5235987755983003)]
